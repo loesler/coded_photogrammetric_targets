@@ -1,2 +1,6 @@
-# coded_photogrammetric_targets
-Generation of circle-coded targets, which are frequently used in close-range photogrammetry applications for automatic target recognition.
+Coded Photogrammetric Targets
+=============================
+
+Circle-coded targets are often used in close-range photogrammetry, as these targets can be recognised fully automatically. Based on the code written by [Matthew Petroff](https://mpetroff.net/2018/05/photogrammetry-targets/), 
+a corresponding implementation was created in [Matlab](https://mathworks.com/). The script generates the ring codes of the targets using, e.g., the 14-bit code as described in the expired German 
+patent [DE19733466A1](https://patents.google.com/patent/DE19733466A1/).
